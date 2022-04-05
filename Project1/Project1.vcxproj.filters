@@ -16,6 +16,15 @@
     <Filter Include="소스 파일\Ch01">
       <UniqueIdentifier>{215530cd-8b2e-492b-883d-a37a599fc81f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Ch04">
+      <UniqueIdentifier>{1443f410-8d20-4e14-ac0b-59c4a67024a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Ch03">
+      <UniqueIdentifier>{3ea0a216-5792-4726-ab65-0ab29ac75769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Ch03">
+      <UniqueIdentifier>{d2353f95-e3c8-4492-b371-2cac75a14c61}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.cpp">
@@ -24,5 +33,40 @@
     <ClCompile Include="scanf.cpp">
       <Filter>소스 파일\Ch01</Filter>
     </ClCompile>
+    <ClCompile Include="func_defalut.cpp">
+      <Filter>소스 파일\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="name_space.cpp">
+      <Filter>소스 파일\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz.cpp">
+      <Filter>소스 파일\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="dest.cpp">
+      <Filter>소스 파일\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\malin\source\repos\Project1\Project1\FruitBuyer.cpp">
+      <Filter>소스 파일\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\malin\source\repos\Project1\Project1\FruitSalesSim1e.cpp">
+      <Filter>소스 파일\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\malin\source\repos\Project1\Project1\FruitSeller.cpp">
+      <Filter>소스 파일\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjArr.cpp">
+      <Filter>소스 파일\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjPtrArr.cpp">
+      <Filter>소스 파일\Ch04</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\malin\source\repos\Project1\Project1\FruitSeller.h">
+      <Filter>헤더 파일\Ch03</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\malin\source\repos\Project1\Project1\FruitBuyer.h">
+      <Filter>헤더 파일\Ch03</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
