@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Ch03">
       <UniqueIdentifier>{d2353f95-e3c8-4492-b371-2cac75a14c61}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Ch05">
+      <UniqueIdentifier>{fa825e25-4fb3-4826-b86b-ab9a3c740e3a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.cpp">
@@ -59,6 +62,15 @@
     </ClCompile>
     <ClCompile Include="ObjPtrArr.cpp">
       <Filter>소스 파일\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="how_to_copy.cpp">
+      <Filter>소스 파일\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="deep_dark_copy.cpp">
+      <Filter>소스 파일\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="객체의_소멸시점.cpp">
+      <Filter>소스 파일\Ch05</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
