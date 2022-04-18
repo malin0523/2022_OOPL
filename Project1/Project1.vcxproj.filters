@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Ch05">
       <UniqueIdentifier>{fa825e25-4fb3-4826-b86b-ab9a3c740e3a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Ch07">
+      <UniqueIdentifier>{86e31c0d-2252-42ab-9d0f-6a4cbb56bf20}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.cpp">
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="객체의_소멸시점.cpp">
       <Filter>소스 파일\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07qz.cpp">
+      <Filter>소스 파일\Ch07</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
